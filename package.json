@@ -1,0 +1,14 @@
+{
+  "name": "3_page_angular_app",
+  "version": "1.0.0",
+  "description": "3 page angular app with node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alfonso rush",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
